@@ -14,4 +14,4 @@ The workflow runs on every push and PR to verify the action works correctly.
 
 ## Last Updated
 
-2026-03-23 v2
+2026-03-23 v3 - Fix BOM encoding
